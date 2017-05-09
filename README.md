@@ -19,4 +19,4 @@ Now plugin horus and test.
 node --inspect --debug-brk horus.js
 ```
 
-Copy the url in the command line into chrome browser to start debugging.
+Copy the url from the command line outputted from the above command and paste into chrome browser to start debugging.
